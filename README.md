@@ -77,7 +77,7 @@ Make a directory for building
     
 Run cmake and make
 
-    $ cmake ../root
+    $ cmake ../root -Dx11=OFF
     $ make -j8
 
 Setup and run ROOT
